@@ -1,6 +1,6 @@
 # Heroes of Pymoli fictional video game analysis
 
-This project aimed to generate a report that breaks down the purchasing data for a video game's virtual marketplace into meaningful insights.
+This project aimed to generate a report that breaks down the purchasing data of a video game's virtual marketplace into meaningful insights.
 
 The following were the variables measured.
 

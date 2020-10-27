@@ -1,3 +1,5 @@
+### README update in progress..
+
 # Heroes of Pymoli fictional video game analysis
 
 This project aimed to generate a report that breaks down the purchasing data of a video game's virtual marketplace into meaningful insights.
@@ -24,3 +26,4 @@ The following were the variables measured.
 
 ### Most Popular and Profitable Items
 - item name, price, purchase count, and total purchase value
+
